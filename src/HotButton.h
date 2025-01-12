@@ -1,3 +1,4 @@
+#pragma once
 /*
  *  See https://github.com/ropg/HotButton for documentation and for reporting
  *  any issues.
